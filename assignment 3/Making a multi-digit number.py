@@ -1,7 +1,13 @@
-ikan=input('number_1: ')
+Decimal_number = float(input('Please enter one decimal number:'))
+Ikan = int(input('Please enter ikan:'))
+Dahgan = int(input('Please enter dahgan:'))
+Sadgan = int(input('Please enter sadgan:'))
+Hezargan = int(input('Please enter hezargan:'))
 
-dahgan=input('number_2: ')
+A = Decimal_number / 10
+B = Dahgan * 10
+C = Sadgan * 100
+D = Hezargan * 1000
 
-sadgan=input('number_3: ')
-
-print('your number is:'+ikan+dahgan+sadgan)
+answer = A + B + C + D
+print(answer)
