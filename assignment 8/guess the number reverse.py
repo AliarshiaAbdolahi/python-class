@@ -8,7 +8,7 @@ here you have to help me to guess your number:
 2_(U)=>go [up]
 3_(D)=>go [down]
 ''')
-A = 1
+A = 0
 B = 99
 C = 0
 
@@ -19,12 +19,14 @@ operation = input('Please direct me: ')
 while operation != 'T':
     C += 1
     if operation == 'D':
-        B = guess
+        B = guess 
+        B -= 1
         guess = random.randint(A,B)
         print('It your number is:',guess)
         operation = input('Please direct me: ')
     elif operation == 'U':
         A = guess
+        A += 1
         guess = random.randint(A,B)
         print('It your number is:',guess)
         operation = input('Please direct me: ')
