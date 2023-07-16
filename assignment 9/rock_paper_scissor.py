@@ -1,4 +1,8 @@
 import random
+import pyfiglet
+
+title = pyfiglet.figlet_format("ROCK---PAPER                   SCISSORS")
+print(title)
 
 loop = int(input("How many time do you want to play: "))
 loop += 1
