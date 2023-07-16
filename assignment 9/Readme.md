@@ -7,4 +7,5 @@
 # rock_paper_scissor
 ![rock_paper_scissor2](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/73aa787d-2f61-4c94-a0a4-fbacee9f64b9)
 # QR code
-![QR_code](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/7d5c6692-5c45-43d8-ac82-07b0356b4811)
+![Capture](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/abd380e2-5660-4ee6-a0d7-508a235e68e8)
+![rock_paper_scissor2](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/3ccbf94b-a605-472d-adb2-9f6e75ced6e6)
