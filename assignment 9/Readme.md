@@ -5,8 +5,6 @@
 # list_Dictionary
 ![list_Dictionary1](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/fd4cd780-feeb-497e-aa83-0f04ed29372e)
 # rock_paper_scissor
-![rock_paper_scissor2](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/3ccbf94b-a605-472d-adb2-9f6e75ced6e6)
-
-![Capture](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/abd380e2-5660-4ee6-a0d7-508a235e68e8)
+![Capture](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/b634f667-19b9-46a8-9205-6a25ff3f6964)
 # QR code
 ![Capture](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/53234d98-3592-45a6-a585-e7369f521fe6)
