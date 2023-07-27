@@ -1,8 +1,4 @@
 import random
-import pyfiglet
-
-title = pyfiglet.figlet_format(" -   car   -   - store -", font="banner3-D")
-print(title)
 
 cars = ["Nissan Skylan R34","BMW X4","Alfa Romeo","Aston Martin","Toyota Supra","Benz Maybach","Benz G Class","Bentley","rolls Royce","Lamborghini Aventador","Dodge Challenger","Benz T80","Pride 132","Chery","Chevrolet Camaro","Ford Mustang"]
 colors = ["red","orange","yellow","green","blue","purple","silver","gold","brown","gray","black","white"]
