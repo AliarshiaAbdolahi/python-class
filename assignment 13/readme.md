@@ -12,7 +12,7 @@
 ![fra_1](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/7fd3fde7-d7cb-4db2-85bc-89c034d997fb)
 ## subtract:
 ![fra_2](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/7535a697-8e04-4b55-910b-720dec7e15e6)
-# multiplication:
+## multiplication:
 ![fra_3](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/4315845e-59ff-47d3-b128-986e471c351c)
 ## Division:
 ![fra_4](https://github.com/AliarshiaAbdolahi/python-class/assets/137824806/d970fb9b-1ef9-4a03-9a51-2770a2679778)
