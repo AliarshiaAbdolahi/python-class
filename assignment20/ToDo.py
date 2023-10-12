@@ -1,10 +1,3 @@
-# Simple To-Do List App
-# by TokyoEdtech
-# Python 3.8 using Geany Editor
-# Ubuntu Linux (Mac and Windows Compatible)
-# Topics: tkinter, grid geometry manager
-# Topics: Listbox Widget, Scrollbar widget, tkinter.messagebox, Try/Except Block, pickle
-
 import tkinter
 import tkinter.messagebox
 import pickle
